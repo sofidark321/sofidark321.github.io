@@ -56,3 +56,4 @@ function testCollideCircleRect() {
   if (result === true) {
     console.error
 
+  }}
